@@ -1,4 +1,5 @@
 ## Miembros
 
 * Mr doom
-* Red Skull
+* Red 
+* Capitán America
